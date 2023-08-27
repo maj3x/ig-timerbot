@@ -1,0 +1,8 @@
+{
+    "username":"username",
+    "password":"password",
+    "background_color":[0,0,0],
+    "text_color":[63, 193, 176],
+    "delay":5
+
+}
